@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Tutoriais
+nav:
+  - Holyrics: holyrics.md
+  - Home: index.md
+
