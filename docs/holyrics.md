@@ -1,6 +1,10 @@
 # Holyrics - Monitor do palco
 
+---
+
 ## Configurações iniciais
+
+![1_area_de_trabalho.png](C:\Users\Admin\Desktop\Transmissão\tutorial_mkdocs\transmissao\docs\assets\Holyrics\1_area_de_trabalho.png)
 
 ### Ativando o servidor
 
@@ -9,8 +13,6 @@
 ---
 
 ## Contagens regressivas
-
-
 
 ---
 
@@ -39,7 +41,3 @@
 - Momento missionário: **10** minutos
 
 ---
-
-
-
-

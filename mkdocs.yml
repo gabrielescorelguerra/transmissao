@@ -1,4 +1,6 @@
 site_name: Tutoriais
+theme:
+  name: readthedocs
 nav:
   - Holyrics: holyrics.md
   - Home: index.md
