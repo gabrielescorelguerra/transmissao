@@ -2,6 +2,7 @@ site_name: Tutoriais
 theme:
   name: readthedocs
 nav:
-  - Holyrics: holyrics.md
   - Home: index.md
-
+  - Holyrics: holyrics.md
+  - Transmissão: transmissao.md
+extra_css: [extra.css]

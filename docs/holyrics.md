@@ -4,7 +4,33 @@
 
 ## Configurações iniciais
 
-![1_area_de_trabalho.png](C:\Users\Admin\Desktop\Transmissão\tutorial_mkdocs\transmissao\docs\assets\Holyrics\1_area_de_trabalho.png)
+Primeiramente, abra o Holyrics
+
+<img src="/assets/Holyrics/1_area_de_trabalho.png"/>
+
+Clique na opção *ferramentas* e depois em *Plugin holyrics* 
+
+<img src="/assets/Holyrics/2_home_holyrics.png"/>
+
+<img src="/assets/Holyrics/3_plugin_holyrics_opcao.png"/>
+
+Clique na opção *Ativar servidor*
+
+Isso faz aafhfhdkasf fadshjkadsfh jkadsfhkjasdf hkfjasd sjka ghuir arwejkdfsahkjsdfah fkasdj hksdfja hjka
+
+<img src="/assets/Holyrics/4_plugin_holyrics_1.png"/>
+
+<img src="/assets/Holyrics/5_plugin_holyrics_2.png"/>
+
+<img src="/assets/Holyrics/6_localhost_1.png"/>
+
+<img src="/assets/Holyrics/7_area_comunicacao_opcao.png"/>
+
+<img src="/assets/Holyrics/9_area_comunicacao_2.png"/>
+
+<img src="/assets/Holyrics/10_url_2.png"/>
+
+<img src="/assets/Holyrics/11_area_comunicacao_3.png"/>
 
 ### Ativando o servidor
 
