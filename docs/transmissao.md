@@ -30,10 +30,12 @@ Clique em `Aplicar`
 Pronto! Agora quando a transmissão for iniciada no OBS, ela vai iniciar no youtube!
 
 > ###### Explicação
+> 
 > A chave da transmissão é um código único usado para conectar seu programa de streaming (como o OBS Studio) à sua conta no YouTube. Ela funciona como um endereço de autorização.
 > Redefinimos ela para evitar problemas caso a chave tenha sido alterada por acidente ou haja conflito com o YouTube
 
 ### Iniciando e Encerrando a Transmissão
+
 Para iniciar a transmissão, após seguir os passos do tópico [Ligando o Youtube com o OBS](#ligando-o-youtube-com-o-obs), basta ir para o OBS e clicar em `Iniciar transmissão`
 
 <img src=""/>
@@ -53,6 +55,7 @@ Nessa seção, você poderá editar as informações transmissão. Na grande mai
 <img src=""/>
 
 ### Visibilidade
+
 - __Privado__: nínguem pode acessar a transmissão, apenas a conta responsável por transmitir e enails especificados por ela
 - __Não listado__: só pode ser vista por quem tem o link direto, ficando oculta nas buscas e no canal.
 - __Público__: a transmissão fica visível para todos, aparece nas buscas e no seu canal.
@@ -60,6 +63,7 @@ Nessa seção, você poderá editar as informações transmissão. Na grande mai
 <img src=""/>
 
 ### Miniatura
+
 Permite baixar ou alterar a imagem de capa da transmissão
 
 <img src=""/>
@@ -72,6 +76,7 @@ Em eventos que não possuem capa pronta para o YouTube, coloque a capa com a log
 ## Operando o OBS Studio
 
 ### Gerenciamento de fontes
+
 As fontes são os elementos individuais que compõem o que é transmitido. Elas ficam dentro de uma "Cena" e representam cada camada visual ou de áudio que você adiciona à tela;  como o sinal da câmera, uma imagem estática (logo), um vídeo de avisos ou o som da mesa de som
 <br>
 No painel `Fontes`, localizado na barra inferior do OBS, é possível adicionar e controlar elas.
@@ -80,26 +85,31 @@ Nessa seção, podemos realizar as seguintes ações:
 
 - #### Adicionar uma fonte
 Clique no botão `+` na barra e escolha o tipo desejado.
-<img src="">
+  
+  <img src="">
 
 - #### Ocultar/Exibir
 Clique no ícone do olho ao lado da fonte para sumir ou aparecer com o elemento na tela.
-<img src="">
+  
+  <img src="">
 
 - #### Mudar tamanho e posição
 Clique no elemento na tela de pré-visualização e arraste os quadrados vermelhos das bordas para redimensionar.
-<img src="">
+  
+  <img src="">
 
 - #### Bloquear elemento
 Clique no **Cadeado** para evitar que você mova ou desconfigure a fonte por acidente durante o culto.
-<img src="">
+  
+  <img src="">
 
 > ###### Camadas
+> 
 > A ordem em que elas aparecem na lista do painel determina o que fica na frente ou atrás na tela: quem está a cima na lista aparece na frente na transmissão, quem está abaixo aparece atrás.
 
 ### Câmera (PTZ)
 
-- #### Ligando e desligando a câmera a câmera
+- #### Ligando e desligando a câmera
 Quando a câmera está virada para a parede e com uma luz vermelha, ela está desligada. Quando está virada para frente e com luz verda, está ligada
 <br>
 Para ligar, aponte o controle físico para a cãmera e aperte o botão indicado 
@@ -107,14 +117,30 @@ Para ligar, aponte o controle físico para a cãmera e aperte o botão indicado
 Para desligar, o procedimento é o mesmo
 
 > ###### Atenção
+> 
 > Sempre desligue a câmera antes de desligar o PC
 
-
 - #### Controles da câmera
+O movimento e controle de foco e zoom da câmera PTZ são feitos diretamente por dentro do OBS utilizando o painel de controle integrado.
+<img src=""/>
+Para trazer o __foco__ mais para perto, clique no botão com o ícone de flor. Para levá-lo para longe, clique no ícone de montanha. Para ativar o __foco automático__ clique no botão `AF`
+<br>
+Para controlar a posição da câmera use os botões de seta. Pressioná-los junto com a tecla *shif* deixa o movimento mais lento e mais fácil de controlar.
+<br>
+Para dar o __zoom-in__ e __zoom-out__ use os ícones de lupa. A tecla *shift* também atua sobre essas opções.
 
-- #### Presets
+- #### Usando presets
+À direta dos controles abordados, temos os *presets*. Eles são explicação de preset
+<br>
+Para ativar um preset, basta clicar nele 2 vezes com o botão direito do *mouse*
 
+- #### Criando presets
+Primeiramente, clique na opção *add preset*, isso cria ...
 
+Então coloque a câmera na posição que queremos e configuramos manualmente o foco, pois a configuração de foco também é salva no preset.
 
+Para que essa configuração seja salva, clique com o botão direito do mouse no *preset* criado e depois clique em *save preset*
+
+Pronto.
 
 ### Cronômetro
