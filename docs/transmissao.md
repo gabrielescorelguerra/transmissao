@@ -1,4 +1,5 @@
 # Transmissão
+colocar videos no youtube
 
 ## Configurando a Transmissão
 
@@ -6,25 +7,27 @@
 
 Primeiramente, abra o youtube e clique em `+ Criar` e depois em `Transmitir ao vivo`
 
-<img src=""/>
+<img src=""/>CHECK
 
 Então redefina a chave da transmissão
 
-<img src=""/>
+CHECK
 
 E copie ela
 
-<img src=""/>
+CHECK
 
 Abra o OBS e clique em `configurações` > `transmissão`
 
-<img src=""/>
+CHECK
 
 Clique em `Usar chave de transmissão`, apague o conteúdo do campo `chave de transmissão` e cole a chave que foi copiada
 
+CHECK
 <img src=""/>
 Clique em `Aplicar`
 
+CHECK
 <img src=""/>
 
 Pronto! Agora quando a transmissão for iniciada no OBS, ela vai iniciar no youtube!
@@ -47,19 +50,20 @@ Para encerrá-la, clique em `interromper transmissão` __adicionar mais sobre de
 Vá para a página da transmissão no YouTube e clique em `editar`
 
 <img src=""/>
+CHECK
 
 Nessa seção, você poderá editar as informações transmissão. Na grande maioria das vezes, você precisará editar apenas os seguintes itens:
 
 ### Título
 
-<img src=""/>
+<img src=""/>CHECK
 
 ### Visibilidade
 
 - __Privado__: nínguem pode acessar a transmissão, apenas a conta responsável por transmitir e enails especificados por ela
 - __Não listado__: só pode ser vista por quem tem o link direto, ficando oculta nas buscas e no canal.
 - __Público__: a transmissão fica visível para todos, aparece nas buscas e no seu canal.
-
+CHECK
 <img src=""/>
 
 ### Miniatura
@@ -67,7 +71,7 @@ Nessa seção, você poderá editar as informações transmissão. Na grande mai
 Permite baixar ou alterar a imagem de capa da transmissão
 
 <img src=""/>
-
+CHECK
 As capas dos cultos geralmente estarão na pasta *Transmissão > Capas do Youtube* 
 Em eventos que não possuem capa pronta para o YouTube, coloque a capa com a logo do Verbo da Vida
 

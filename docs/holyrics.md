@@ -6,8 +6,8 @@
 
 Primeiramente, abra o Holyrics
 
-<a href="/assets/Holyrics/1_area_de_trabalho.png" target="_blank">
-	<img src="/assets/Holyrics/1_area_de_trabalho.png"/>
+<a href="./0assets/Holyrics/1_area_de_trabalho.png" target="_blank">
+	<img src="./assets/Holyrics/1_area_de_trabalho.png"/>
 </a>
   
 Clique na opção *ferramentas* e depois em *Plugin holyrics* 
